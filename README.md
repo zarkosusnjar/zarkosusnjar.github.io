@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/zarkosusnjar/zarkosusnjar.github.io.png?label=ready)](https://waffle.io/zarkosusnjar/zarkosusnjar.github.io)
 # Lanyon
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
