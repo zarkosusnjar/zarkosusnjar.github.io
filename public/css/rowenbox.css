@@ -1,0 +1,19 @@
+body {
+	background-color: #e6e1dc;	
+	color: #262230;
+}
+
+code {
+	color: #da4939;
+}
+
+.theme-rownebox .sidebar,
+.theme-rownebox .sidebar-toggle:active,
+.theme-rownebox #sidebar-checkbox:checked ~ .wrap .sidebar-toggle {
+  background-color: #5a647e;
+}
+.theme-rownebox .container a,
+.theme-rownebox .sidebar-toggle,
+.theme-rownebox .related-posts li a:hover {
+  color: #5a647e;
+}
